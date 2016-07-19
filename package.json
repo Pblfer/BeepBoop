@@ -1,0 +1,22 @@
+{
+  "name": "facebookboots",
+  "version": "1.0.0",
+  "description": "Facebook Bots",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pblfer/BeepBoop.git"
+  },
+  "author": "pblfer",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Pblfer/BeepBoop/issues"
+  },
+  "homepage": "https://github.com/Pblfer/BeepBoop#readme",
+  "dependencies": {
+    "botkit": "^0.2.2"
+  }
+}
